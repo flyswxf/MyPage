@@ -1,6 +1,7 @@
 ---
 layout: "post"
-title: 字符串查找
+title: string::find
+category: C++ 
 ---
 
 # 常量

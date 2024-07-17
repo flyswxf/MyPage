@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "How To Use Jekyll"
+category: Jekyll
 ---
 
 ## 查看网页

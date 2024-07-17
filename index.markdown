@@ -4,3 +4,7 @@
 
 layout: home
 ---
+# 目录
+[Posts about C++](/cat/c++/)
+
+[Jekyll Guide](/cat/jekyll_helper)
